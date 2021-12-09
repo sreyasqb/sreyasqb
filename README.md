@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sreyasqb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreyasqb/" height="30" width="40" /></a>
-<a href="https://discord.gg/QooBee#1931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QooBee#1931" height="30" width="40" /></a>
+<a href="https://discord.gg/xvf8gMz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QooBee#1931" height="30" width="40" /></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sreyasqb&show_icons=true&theme=tokyonight&count_private=true&custom_title=My Stats">|<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyasqb&layout=compact&&custom_title=My Most Used&text_color=37B9AB&bg_color=1A1B27&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" height="195">
