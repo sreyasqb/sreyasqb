@@ -1,4 +1,5 @@
-### Welcome to my codespace 👋
+<h1 align="center">I'm Sreyas</h1>
+<h3 align="center">Just love what I do.</h3>
 <img src="https://github.com/sreyasqb/sreyasqb/blob/main/cover2.jpeg" width="1000" height="400">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sreyasqb&show_icons=true&theme=tokyonight&count_private=true&custom_title=My Stats">
