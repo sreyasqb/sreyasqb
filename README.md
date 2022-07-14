@@ -1,5 +1,10 @@
 <h1 align="center">I'm Sreyas</h1>
-<h3 align="center">Been coding for a while now... as you can see</h3><img src="https://komarev.com/ghpvc/?username=sreyasqb&color=blueviolet">
+<!-- <h3 align="center">Been coding for a while now... as you can see</h3><img src="https://komarev.com/ghpvc/?username=sreyasqb&color=blueviolet"> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=been+coding+for+a+while;as+you+can+see&center=true&size=30">
+  </a>
+</h1>
 <img src="https://github.com/sreyasqb/sreyasqb/blob/main/ycover.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
